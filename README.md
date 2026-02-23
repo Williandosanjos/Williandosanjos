@@ -12,7 +12,7 @@ Me chamo Willian dos Anjos Boaventura, tenho 35 anos, resido em São paulo capit
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logoColor=black&logo=meu"
         />
     </a>
-        <a href="[https://mail.google.com/mail/?view=cm&to=williandosanjos14@gmail.com.com](https://mail.google.com/mail/?view=cm&to=williandosanjos14@gmail.com)">
+        <a href="https://mail.google.com/mail/?view=cm&to=williandosanjos14@gmail.com">
         <img 
             alt="email" 
             title="Meu Email" 
