@@ -2,7 +2,11 @@
 
 **'Desenvolvedor Backend'**
 
-Me chamo Willian dos Anjos Boaventura, tenho 35 anos, resido em São paulo capital. Sou desenvolvedor back-end com cinco anos de experiência como Engenheiro Analista de TI. Estou cursando o ultimo semestre de engenharia da computação, possuo formação Java e AWS pela Gama Academy.
+Me chamo Willian dos Anjos Boaventura, tenho 35 anos, resido em São paulo capital. Sou sesenvolvedor Backend com 5 anos de experiência no setor bancário, atuando na construção de soluções
+críticas de automação e integração de sistemas. Especialista em desenvolvimento com Java e integrações REST, com foco em segurança, desempenho e escalabilidade. Experiência na orquestração de APIs
+internas e externas, incluindo integrações com sistemas financeiros e órgãos reguladores. Atuação ponta a ponta no ciclo de desenvolvimento, desde o refinamento técnico com áreas de negócio até implantação e
+acompanhamento pós-release. Vivência com arquitetura lógica de fluxos, validação e manipulação de dados JSON, versionamento com Git e testes integrados. Experiência em observabilidade e monitoramento
+com Splunk, Datadog e Grafana. Contribuição direta para automação de produtos bancários e melhoria da experiência digital. Perfil analítico, orientado a resultados e excelência técnica.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/willian-boaventura/">
@@ -17,13 +21,6 @@ Me chamo Willian dos Anjos Boaventura, tenho 35 anos, resido em São paulo capit
             alt="email" 
             title="Meu Email" 
             src="https://custom-icon-badges.demolab.com/badge/-Email-E61B23?style=for-the-badge&logoColor=black&logo=mail"
-        />
-    </a>
-    <a href="https://github.com/Williandosanjos">
-        <img 
-            alt="GitHub" 
-            title="Meu GitHub"
-            src="https://custom-icon-badges.demolab.com/badge/-repositorio git-236ad3?style=for-the-badge&logoColor=black&logo=github"
         />
     </a>
     <a href="https://wa.me/+5511945424914?text=Ol%C3%A1%20">
